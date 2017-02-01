@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+8
+https://www.screencast.com/t/tevcyjRs4
+
+https://githowto.com/ru/undoing_committed_changes
+
+и мне скорее всего надо выполнить
+git revert c27871f448d ba7913e170d
+чтобы отменить только неправильные мои коммиты и всё
+
+
+
+Commit hash:	ba7913e170de2478bd7fcc7cfad4153a8518d5d8
+Commit hash:	c27871f448dfa6a7e6490425cca25d05806bbe9f
+=======
+2
+https://www.screencast.com/t/tevcyjRs4
+>>>>>>> parent of a9b3574... 7
